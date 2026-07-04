@@ -1,0 +1,2199 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ka_police_outpost" id="ka_police_outpost">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="KGISCode" type="string"></SimpleField>
+	<SimpleField name="KGISWardID" type="string"></SimpleField>
+	<SimpleField name="DepartmentCode" type="string"></SimpleField>
+	<SimpleField name="KGISVillageID" type="float"></SimpleField>
+	<SimpleField name="KGISPOL_OPSTID" type="int"></SimpleField>
+	<SimpleField name="POL_OPSTName" type="string"></SimpleField>
+</Schema>
+<Folder><name>ka_police_outpost</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">1</SimpleData>
+		<SimpleData name="KGISVillageID">15437</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">1</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, APTS Yelahanka</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.605489000224,13.1236710003015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFPOP0007</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">10</SimpleData>
+		<SimpleData name="KGISVillageID">15140</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">10</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Seshadripuram </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5826090002177,12.9955660001983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">100</SimpleData>
+		<SimpleData name="KGISCode">29555054335971750000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">100</SimpleData>
+		<SimpleData name="KGISVillageID">1140</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">100</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Examba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.6021730001999,16.5277230001537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">101</SimpleData>
+		<SimpleData name="KGISCode">29555054335971200000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">101</SimpleData>
+		<SimpleData name="KGISVillageID">1104</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">101</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Koga  Li</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.3308900000456,16.5423399999553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">102</SimpleData>
+		<SimpleData name="KGISCode">29555054375976650000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">102</SimpleData>
+		<SimpleData name="KGISVillageID">1375</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">102</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Pachapur</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.6855999997508,16.1036270002212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="KGISCode">29555054375976180000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">103</SimpleData>
+		<SimpleData name="KGISVillageID">1280</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">103</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Hidakal Dam</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.6596200000697,16.1324060003969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="KGISCode">29555054425983880000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">104</SimpleData>
+		<SimpleData name="KGISVillageID">1797</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">104</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Sureban </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.3896666668748,15.8894999999577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="KGISCode">29555054415981670000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">105</SimpleData>
+		<SimpleData name="KGISVillageID">1939</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">105</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Yaragatti </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.016678700172,15.9807520999908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">106</SimpleData>
+		<SimpleData name="KGISCode">29555054415982660000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">106</SimpleData>
+		<SimpleData name="KGISVillageID">1837</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">106</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Munavalli </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1287610001644,15.8558550004057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">107</SimpleData>
+		<SimpleData name="KGISCode">29555054415982460000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">107</SimpleData>
+		<SimpleData name="KGISVillageID">1894</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">107</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Yallamanagudda </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1327620004657,15.7657649998639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">108</SimpleData>
+		<SimpleData name="KGISCode">29555054415982670000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">108</SimpleData>
+		<SimpleData name="KGISVillageID">1840</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">108</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Naveeluteerth Dam </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.106889999965,15.8159610002025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="KGISCode">29562054736023090000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">109</SimpleData>
+		<SimpleData name="KGISVillageID">6497</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">109</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Hebballi </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1313060001471,15.4866939999427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFPOP0008</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">11</SimpleData>
+		<SimpleData name="KGISVillageID">15128</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">11</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Dattatreya Temple  Hulluchatra</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5746466298859,12.9991048101212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="KGISCode">29562054756023940000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">110</SimpleData>
+		<SimpleData name="KGISVillageID">6694</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">110</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Bhandiwad </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2658059996094,15.3576940003701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">111</SimpleData>
+		<SimpleData name="KGISCode">29562054766024620000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">111</SimpleData>
+		<SimpleData name="KGISVillageID">6732</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">111</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Misrikoti </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.0565280000227,15.2536110003028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">112</SimpleData>
+		<SimpleData name="KGISCode">29562054746023310000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">112</SimpleData>
+		<SimpleData name="KGISVillageID">31503</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">112</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Morab </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1612780000011,15.5807219997608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="KGISCode">29561054706020220000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">113</SimpleData>
+		<SimpleData name="KGISVillageID">6950</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">113</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Binkadakatti Jeevan Raksha</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5811559997896,15.4221340000295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="KGISCode">29561054726021540000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">114</SimpleData>
+		<SimpleData name="KGISVillageID">6985</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">114</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Dambal Village</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7753611112541,15.2941111109811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">115</SimpleData>
+		<SimpleData name="KGISCode">29561054688030740000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">115</SimpleData>
+		<SimpleData name="KGISVillageID">7046</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">115</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Konnur </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.3843479995682,15.7194160002025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">116</SimpleData>
+		<SimpleData name="KGISCode">29561054696019260000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">116</SimpleData>
+		<SimpleData name="KGISVillageID">7141</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">116</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Hirehal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7647222216983,15.797499999994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">117</SimpleData>
+		<SimpleData name="KGISCode">29561054696019010000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">117</SimpleData>
+		<SimpleData name="KGISVillageID">7076</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">117</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Hoealr</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6497222215778,15.8244444432052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="KGISCode">29557054495990680000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">118</SimpleData>
+		<SimpleData name="KGISVillageID">4950</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">118</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Tidagundi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.754591999568,16.9791420003905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">119</SimpleData>
+		<SimpleData name="KGISCode">29557054495991390000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">119</SimpleData>
+		<SimpleData name="KGISVillageID">4916</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">119</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Gunadal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4948359999048,16.5366440000447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFPOP0009</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">12</SimpleData>
+		<SimpleData name="KGISVillageID">30092</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">12</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Bowring Hospital </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.6254558328565,12.9749077788324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">120</SimpleData>
+		<SimpleData name="KGISCode">29557054495991560000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">120</SimpleData>
+		<SimpleData name="KGISVillageID">4925</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">120</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Mamadapur, Basavan Bagewadi Circle</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.59561099955,16.5355760001286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">121</SimpleData>
+		<SimpleData name="KGISCode">29557054495990680000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">121</SimpleData>
+		<SimpleData name="KGISVillageID">4950</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">121</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kanamadi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.754591999568,16.9791420003905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">122</SimpleData>
+		<SimpleData name="KGISCode">29557054505992480000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">122</SimpleData>
+		<SimpleData name="KGISVillageID">4549</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">122</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Agarkhed</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0271719998185,17.304109700439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="KGISCode">29557054515993320000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">123</SimpleData>
+		<SimpleData name="KGISVillageID">4770</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">123</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Moratagi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.4173889997363,17.0044009999472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="KGISCode">29557054515994100000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">124</SimpleData>
+		<SimpleData name="KGISVillageID">4811</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">124</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Korawar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.2140410001415,16.7503090000907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">125</SimpleData>
+		<SimpleData name="KGISCode">29579055866208630000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">125</SimpleData>
+		<SimpleData name="KGISVillageID">3166</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">125</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Yalawar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7509659995315,16.8854009996857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="KGISCode">29557054535996760000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">126</SimpleData>
+		<SimpleData name="KGISVillageID">4694</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">126</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Nalatwad  Circle</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.2922100002959,16.2488210000434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">127</SimpleData>
+		<SimpleData name="KGISCode">29574055556158400000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">127</SimpleData>
+		<SimpleData name="KGISVillageID">22038</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">127</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Banavara </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.1643419998145,13.4087050003178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">128</SimpleData>
+		<SimpleData name="KGISCode">29574055556157990000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">128</SimpleData>
+		<SimpleData name="KGISVillageID">22176</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">128</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Gandasi </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.3052040004471,13.1577920000689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">129</SimpleData>
+		<SimpleData name="KGISCode">29574055546153480000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">129</SimpleData>
+		<SimpleData name="KGISVillageID">22711</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">129</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Halebeedu </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9922100001543,13.1286789995595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFPOP0010</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">13</SimpleData>
+		<SimpleData name="KGISVillageID">15447</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">13</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Yelahanka </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5970329999878,13.0988799999525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">130</SimpleData>
+		<SimpleData name="KGISCode">29574055566161000000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">130</SimpleData>
+		<SimpleData name="KGISVillageID">22967</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">130</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Goruru </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0751630000155,12.8882689998303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">131</SimpleData>
+		<SimpleData name="KGISCode">29574055536150660000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">131</SimpleData>
+		<SimpleData name="KGISVillageID">23398</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">131</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Alur </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8573839998027,12.7773270003867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">132</SimpleData>
+		<SimpleData name="KGISCode">29576055666177940000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">132</SimpleData>
+		<SimpleData name="KGISVillageID">27164</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">132</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Thalacauvery  Karike</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.492854099556,12.3862850003714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">133</SimpleData>
+		<SimpleData name="KGISCode">29576055666177930000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">133</SimpleData>
+		<SimpleData name="KGISVillageID">27158</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">133</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Madikeri </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4227330000345,12.4402049998318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="KGISCode">29576055666178320000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">134</SimpleData>
+		<SimpleData name="KGISVillageID">27180</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">134</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Rural, Madikeri Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7507414996898,12.3142213001403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">135</SimpleData>
+		<SimpleData name="KGISCode">29576055666178100000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">135</SimpleData>
+		<SimpleData name="KGISVillageID">27219</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">135</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Bhagamandala</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5654619995887,12.4936962001305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">136</SimpleData>
+		<SimpleData name="KGISCode">29576055676179570000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">136</SimpleData>
+		<SimpleData name="KGISVillageID">27465</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">136</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Suntikoppa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8289000016518,12.4524999999229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">137</SimpleData>
+		<SimpleData name="KGISCode">29576055686180360000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">137</SimpleData>
+		<SimpleData name="KGISVillageID">27486</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">137</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Pollibeta</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9146239995547,12.2391059998187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">138</SimpleData>
+		<SimpleData name="KGISCode">29576055686180260000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">138</SimpleData>
+		<SimpleData name="KGISVillageID">27471</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">138</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Chenyanakote</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.933727999973,12.2729959996693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">139</SimpleData>
+		<SimpleData name="KGISCode">29576055676179810000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">139</SimpleData>
+		<SimpleData name="KGISVillageID">27322</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">139</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Harangi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9565649999831,12.4845269998253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFPOP0011</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">14</SimpleData>
+		<SimpleData name="KGISVillageID">30092</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">14</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Upparpet Traffic, Majestic Bus Stand</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5736500000652,12.9773430001644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">140</SimpleData>
+		<SimpleData name="KGISCode">29576055666178090000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">140</SimpleData>
+		<SimpleData name="KGISVillageID">27220</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">140</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kodlipet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5322929999973,12.474799999884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">141</SimpleData>
+		<SimpleData name="KGISCode">29576055676179580000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">141</SimpleData>
+		<SimpleData name="KGISVillageID">27455</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">141</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Madapura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8090270002041,12.5132190001061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">142</SimpleData>
+		<SimpleData name="KGISCode">29576055686180480000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">142</SimpleData>
+		<SimpleData name="KGISVillageID">27511</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">142</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Thithimathi </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0052569997291,12.2278790000745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">143</SimpleData>
+		<SimpleData name="KGISCode">29576055686180870000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">143</SimpleData>
+		<SimpleData name="KGISVillageID">27495</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">143</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Balele </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0564729996175,12.140438999803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">144</SimpleData>
+		<SimpleData name="KGISCode">29576055686180630000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">144</SimpleData>
+		<SimpleData name="KGISVillageID">27524</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">144</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Hudikeri</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9544099997296,12.0857619998449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">145</SimpleData>
+		<SimpleData name="KGISCode">29576055686180590000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">145</SimpleData>
+		<SimpleData name="KGISVillageID">27518</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">145</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Birunani </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.876269000385,12.0179610003427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">146</SimpleData>
+		<SimpleData name="KGISCode">29577055736189560000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">146</SimpleData>
+		<SimpleData name="KGISVillageID">27714</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">146</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Hampapura </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.478491666882,12.1216805558721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">147</SimpleData>
+		<SimpleData name="KGISCode">29577055716186180000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">147</SimpleData>
+		<SimpleData name="KGISVillageID">28170</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">147</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Chuchanakatte </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.2938944439755,12.5034472222166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">148</SimpleData>
+		<SimpleData name="KGISCode">29577055716185710000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">148</SimpleData>
+		<SimpleData name="KGISVillageID">28220</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">148</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Bherya </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.3496361110651,12.5887194438303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">149</SimpleData>
+		<SimpleData name="KGISCode">29577055726188320000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">149</SimpleData>
+		<SimpleData name="KGISVillageID">28416</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">149</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kadakola </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6659166667325,12.1934500002661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFPOP0012</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">15</SimpleData>
+		<SimpleData name="KGISVillageID">15707</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">15</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Jayanagar Traffic, J.P.Nagar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5876499997462,12.9118799995949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">150</SimpleData>
+		<SimpleData name="KGISCode">29577055756193510000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">150</SimpleData>
+		<SimpleData name="KGISVillageID">29026</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">150</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Somanatapura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8830277783822,12.2775694442912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">151</SimpleData>
+		<SimpleData name="KGISCode">29578055786198050000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">151</SimpleData>
+		<SimpleData name="KGISVillageID">25476</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">151</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Farangipete</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.001666667385,12.0350000001662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">152</SimpleData>
+		<SimpleData name="KGISCode">29575055626175720000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">152</SimpleData>
+		<SimpleData name="KGISVillageID">25995</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">152</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kalladka</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.0713000003143,12.8461999998133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="KGISCode">29575055646177000000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">153</SimpleData>
+		<SimpleData name="KGISVillageID">26253</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">153</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Nelyady </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4050649996035,12.838049000363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">154</SimpleData>
+		<SimpleData name="KGISCode">29575055656177730000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">154</SimpleData>
+		<SimpleData name="KGISVillageID">31477</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">154</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kallugundi </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5337529998226,12.5027549999338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">155</SimpleData>
+		<SimpleData name="KGISCode">29563054876038100000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">155</SimpleData>
+		<SimpleData name="KGISVillageID">8990</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">155</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Gersoppa </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.656338799666,14.243299699926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">156</SimpleData>
+		<SimpleData name="KGISCode">29563054856034680000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">156</SimpleData>
+		<SimpleData name="KGISVillageID">9208</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">156</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Katgal, Kumta</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4922882996882,14.4828099995572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">157</SimpleData>
+		<SimpleData name="KGISCode">29563054806027980000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">157</SimpleData>
+		<SimpleData name="KGISVillageID">8834</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">157</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Baghvati </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.7570209998399,15.1593799995519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">158</SimpleData>
+		<SimpleData name="KGISCode">29563054846033280000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">158</SimpleData>
+		<SimpleData name="KGISVillageID">8742</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">158</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Belekeri </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.2668309997565,14.708112999847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">159</SimpleData>
+		<SimpleData name="KGISCode">29563054786026270000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">159</SimpleData>
+		<SimpleData name="KGISVillageID">9055</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">159</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Traffic Aid, Jaddigadde </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.2117200004426,14.7642069995882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="KGISCode">29582055966236210000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">16</SimpleData>
+		<SimpleData name="KGISVillageID">30508</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">16</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Nandi Hils</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.6839970002084,13.3689480003932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">160</SimpleData>
+		<SimpleData name="KGISCode">29563054826030840000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">160</SimpleData>
+		<SimpleData name="KGISVillageID">9320</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">160</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Malagi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.008303999887,14.747127000286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">161</SimpleData>
+		<SimpleData name="KGISCode">29563054876037510000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">161</SimpleData>
+		<SimpleData name="KGISVillageID">8987</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">161</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Bilagi </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.474019999681,14.2139810004331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">162</SimpleData>
+		<SimpleData name="KGISCode">29563054838030940000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">162</SimpleData>
+		<SimpleData name="KGISVillageID">9715</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">162</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Amminalli </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.8412389998704,14.6210509997589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">163</SimpleData>
+		<SimpleData name="KGISCode">29563054838030940000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">163</SimpleData>
+		<SimpleData name="KGISVillageID">9715</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">163</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Sri. Marikamba Temple, Sirsi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.8401569998361,14.6128870002832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">164</SimpleData>
+		<SimpleData name="KGISCode">29563054816028890000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">164</SimpleData>
+		<SimpleData name="KGISVillageID">9943</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">164</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, APMC </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.7176591999565,14.9584727998739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">165</SimpleData>
+		<SimpleData name="KGISCode">29568055216086520000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">165</SimpleData>
+		<SimpleData name="KGISVillageID">12419</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">165</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, BR Project</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6355599996872,13.7175909998467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">166</SimpleData>
+		<SimpleData name="KGISCode">29568055206083680000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">166</SimpleData>
+		<SimpleData name="KGISVillageID">13255</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">166</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Ayanur </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4377100004014,14.0093299998508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">167</SimpleData>
+		<SimpleData name="KGISCode">29568055166075260000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">167</SimpleData>
+		<SimpleData name="KGISVillageID">13530</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">167</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Jade Chandragutti</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.9550320004153,14.4313919998698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">168</SimpleData>
+		<SimpleData name="KGISCode">29568055166073760000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">168</SimpleData>
+		<SimpleData name="KGISVillageID">13587</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">168</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kamanavalli</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.0510570002812,14.5744620001788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">169</SimpleData>
+		<SimpleData name="KGISCode">29568055166074340000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169</SimpleData>
+		<SimpleData name="KGISVillageID">13500</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">169</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kamanavalli</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2074190000375,14.5503500002018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="KGISCode">29582055956232350000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">17</SimpleData>
+		<SimpleData name="KGISVillageID">25670</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">17</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Vidurashwatha </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5008409996939,13.6698830003021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">170</SimpleData>
+		<SimpleData name="KGISCode">29568055158031300000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">170</SimpleData>
+		<SimpleData name="KGISVillageID">12913</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">170</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Linganamakki </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.8311000003578,14.1725779996466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">171</SimpleData>
+		<SimpleData name="KGISCode">29568055156073520000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">171</SimpleData>
+		<SimpleData name="KGISVillageID">12954</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">171</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Bakod </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.8518259997538,14.0336540003927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">172</SimpleData>
+		<SimpleData name="KGISCode">29568055156071430000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">172</SimpleData>
+		<SimpleData name="KGISVillageID">12915</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">172</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Aralagodu </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.8181309998341,14.1429250002226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">173</SimpleData>
+		<SimpleData name="KGISCode">29568055186080380000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">173</SimpleData>
+		<SimpleData name="KGISVillageID">12720</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">173</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Mastikatte </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.02479900027,13.7394080004189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">174</SimpleData>
+		<SimpleData name="KGISCode">29568055156072910000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">174</SimpleData>
+		<SimpleData name="KGISVillageID">12803</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">174</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Anandapura </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2134080002515,14.0821850001104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">175</SimpleData>
+		<SimpleData name="KGISCode">29568055186079970000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">175</SimpleData>
+		<SimpleData name="KGISVillageID">12614</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">175</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Humcha </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2059169998103,13.8614689998982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">176</SimpleData>
+		<SimpleData name="KGISCode">29568055196080820000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">176</SimpleData>
+		<SimpleData name="KGISVillageID">13849</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">176</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Konandur</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2471100000548,13.806909000107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">177</SimpleData>
+		<SimpleData name="KGISCode">29556054455985510000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">177</SimpleData>
+		<SimpleData name="KGISVillageID">629</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">177</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Mugalkhod, Bagalkote</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.207708889134,16.3775119495761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">178</SimpleData>
+		<SimpleData name="KGISCode">29578055796198140000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">178</SimpleData>
+		<SimpleData name="KGISVillageID">30142</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">178</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, CR Nagar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.2351649990061,12.2672050060923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">179</SimpleData>
+		<SimpleData name="KGISCode">29563054856034680000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">179</SimpleData>
+		<SimpleData name="KGISVillageID">9208</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">179</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Bhandival</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4916988881795,14.4822238938122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="KGISCode">29582055956233750000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">18</SimpleData>
+		<SimpleData name="KGISVillageID">25874</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">18</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Thondebavi </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5151960004281,13.5030429999746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">180</SimpleData>
+		<SimpleData name="KGISCode">29563054786026270000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">180</SimpleData>
+		<SimpleData name="KGISVillageID">9055</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">180</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Amadalli</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.2224038892876,14.7629111120703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">181</SimpleData>
+		<SimpleData name="KGISCode">29563054878030980000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">181</SimpleData>
+		<SimpleData name="KGISVillageID">8956</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">181</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Honnavar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4508138883266,14.2818988914223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">182</SimpleData>
+		<SimpleData name="KGISCode">29567055098031240000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">182</SimpleData>
+		<SimpleData name="KGISVillageID">11962</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">182</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Harappanahalli Taluk</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8079011120995,14.5188388906028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="KGISCode">29582055966234650000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">19</SimpleData>
+		<SimpleData name="KGISVillageID">30427</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">19</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Peresandra </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.7843179998288,13.5890709999732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="KGISCode">29555054398030350000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">2</SimpleData>
+		<SimpleData name="KGISVillageID">1610</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">2</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Gym and Model </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.5029000001484,15.6319210002388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="KGISCode">29582055986238190000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">20</SimpleData>
+		<SimpleData name="KGISVillageID">30262</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">20</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Guluru </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.836398999716,13.8423010000732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="KGISCode">29582056006246000000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">21</SimpleData>
+		<SimpleData name="KGISVillageID">30796</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">21</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kaiwara </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9860140003814,13.3480840000495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="KGISCode">29582055996242730000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">22</SimpleData>
+		<SimpleData name="KGISVillageID">31205</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">22</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Jangamakote </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.8468530000318,13.2618600001107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="KGISCode">29581055936225490000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">23</SimpleData>
+		<SimpleData name="KGISVillageID">15882</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">23</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Budikote</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1309410000452,12.9065460000963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="KGISCode">29581055938032240000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">24</SimpleData>
+		<SimpleData name="KGISVillageID">16076</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">24</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Oorgaum</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2610609997232,12.9749639996768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="KGISCode">29581055916219340000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">25</SimpleData>
+		<SimpleData name="KGISVillageID">16380</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">25</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Sugatoor </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1064029999948,13.190389000439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="KGISCode">29581055916218200000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">26</SimpleData>
+		<SimpleData name="KGISVillageID">16332</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">26</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Narasapura </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.0021203004239,13.1392871995869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="KGISCode">29581055918032210000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">27</SimpleData>
+		<SimpleData name="KGISVillageID">16282</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">27</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, DAR Quarters</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1347540002371,13.1402400001241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="KGISCode">29581055918032210000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">28</SimpleData>
+		<SimpleData name="KGISVillageID">16282</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">28</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Civil Quarters</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.130636000036,13.1456380000487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="KGISCode">29581055926222450000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">29</SimpleData>
+		<SimpleData name="KGISVillageID">16572</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">29</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Lakkur </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.8867030003325,12.930696999627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="KGISCode">29555054385977720000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">3</SimpleData>
+		<SimpleData name="KGISVillageID">893</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">3</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Bagewadi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.5679500002802,15.8163379999915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="KGISCode">29581055926224150000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">30</SimpleData>
+		<SimpleData name="KGISVillageID">16898</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">30</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Tekal </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.0735089996465,12.9828809999542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="KGISCode">29581055946231750000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">31</SimpleData>
+		<SimpleData name="KGISVillageID">17256</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">31</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Tailur </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.4254420001843,13.0581989997456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="KGISCode">29581055948032250000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">32</SimpleData>
+		<SimpleData name="KGISVillageID">17197</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">32</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Traffic Aid Mulbagal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3995755997442,13.1694944003377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="KGISCode">29581055946230690000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">33</SimpleData>
+		<SimpleData name="KGISVillageID">17013</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">33</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Gudipalli </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.4591990002375,13.2744949996412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="KGISCode">29581055906217200000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">34</SimpleData>
+		<SimpleData name="KGISVillageID">17676</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">34</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Yeldur </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2959280004489,13.2838980000879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="KGISCode">29584056056258880000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">35</SimpleData>
+		<SimpleData name="KGISVillageID">29768</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">35</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Solur </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.2438999999464,13.0684519997763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="KGISCode">29571055326100470000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">36</SimpleData>
+		<SimpleData name="KGISVillageID">14141</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">36</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Handankere</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.4472710004178,13.5034030000526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="KGISCode">29571055356109850000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">37</SimpleData>
+		<SimpleData name="KGISVillageID">18986</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">37</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kodigadala</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3082099996161,13.6132400004552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="KGISCode">29571055366111130000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">38</SimpleData>
+		<SimpleData name="KGISVillageID">18153</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">38</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Holavanahalli</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.300952999792,13.5290787997489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="KGISCode">29571055416126600000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">39</SimpleData>
+		<SimpleData name="KGISVillageID">18364</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">39</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Yadiyur </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9346000003283,12.9145999999895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="KGISCode">29555054385977970000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">4</SimpleData>
+		<SimpleData name="KGISVillageID">914</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">4</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Marihal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.6135280000548,15.8670600004402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="KGISCode">29571055406123860000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">40</SimpleData>
+		<SimpleData name="KGISVillageID">19887</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">40</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Mayasandra </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7560000001765,13.0779999999108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="KGISCode">29571055376113760000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">41</SimpleData>
+		<SimpleData name="KGISVillageID">19682</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">41</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Urdigere</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.2311649998511,13.3440810004469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="KGISCode">29571055376115820000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">42</SimpleData>
+		<SimpleData name="KGISVillageID">19360</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">42</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Honnudike</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.1291009998722,13.2105380001316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="KGISCode">29571055376112430000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">43</SimpleData>
+		<SimpleData name="KGISVillageID">19278</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">43</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Nelahal </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9999999666838,13.5000002002659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="KGISCode">29571055386116360000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">44</SimpleData>
+		<SimpleData name="KGISVillageID">17871</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">44</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Hagalavadi </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7602999996794,13.5039000003941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="KGISCode">29571055386118770000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">45</SimpleData>
+		<SimpleData name="KGISVillageID">17950</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">45</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kadaba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8608166580597,13.2420444434831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="KGISCode">29566055066057880000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">46</SimpleData>
+		<SimpleData name="KGISVillageID">6159</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">46</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, HD Pura </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.3282700001106,14.0340939999722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="KGISCode">29566055066056910000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">47</SimpleData>
+		<SimpleData name="KGISVillageID">6128</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">47</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Ramagiri  </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.1223349999207,13.9541070003517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="KGISCode">29566055086061870000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">48</SimpleData>
+		<SimpleData name="KGISVillageID">31446</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">48</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, J G Hally</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7457846995627,13.8383899001773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="KGISCode">29566055076059100000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">49</SimpleData>
+		<SimpleData name="KGISVillageID">6308</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">49</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Janakal </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.3156759995423,13.9082539997702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">5</SimpleData>
+		<SimpleData name="KGISVillageID">30092</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">5</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, M.S. Vidhana Soudha</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5886142885905,12.9773209692159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="KGISCode">29567055146068930000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">50</SimpleData>
+		<SimpleData name="KGISVillageID">11479</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">50</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Tyavanige</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8205250002394,14.19875100004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="KGISCode">29567055146071200000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">51</SimpleData>
+		<SimpleData name="KGISVillageID">11675</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">51</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Tavarekere</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9614380000994,13.8556810002296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="KGISCode">29567055146070190000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">52</SimpleData>
+		<SimpleData name="KGISVillageID">11554</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">52</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Nallur </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8766666699925,14.0913888897318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="KGISCode">29567055126065980000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">53</SimpleData>
+		<SimpleData name="KGISVillageID">11684</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">53</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Anaji </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0783660000444,14.4824200004444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="KGISCode">29567055136068080000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">54</SimpleData>
+		<SimpleData name="KGISVillageID">12171</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">54</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kulumbi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7962089997147,14.2989020001398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="KGISCode">29567055136068440000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">55</SimpleData>
+		<SimpleData name="KGISVillageID">12095</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">55</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Chelur</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6792120002083,14.1051709999752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="KGISCode">29567055136067320000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">56</SimpleData>
+		<SimpleData name="KGISVillageID">12073</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">56</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Savalanga</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5265750002942,14.1017130000394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="KGISCode">29567055106063480000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">57</SimpleData>
+		<SimpleData name="KGISVillageID">31488</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">57</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Halavagilu</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8906259998933,14.6537770002734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="KGISCode">29567055106063560000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">58</SimpleData>
+		<SimpleData name="KGISVillageID">11863</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">58</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Ujjappavadera </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0596779999377,14.6332059996912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="KGISCode">29567055116064050000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">59</SimpleData>
+		<SimpleData name="KGISVillageID">12324</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">59</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Gadimhankunte </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.2990619997717,14.6726230003982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFPOP0003</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">6</SimpleData>
+		<SimpleData name="KGISVillageID">30092</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">6</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, L.H. Vidhana Soudha</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5888858023174,12.9842559458422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="KGISCode">29562054758030830000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">60</SimpleData>
+		<SimpleData name="KGISVillageID">6689</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">60</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Ganeshpet, Hubli Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1456250000793,15.3463430000465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="KGISCode">29562054758030830000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">61</SimpleData>
+		<SimpleData name="KGISVillageID">6689</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">61</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Shivaji Chowk, Hubli Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1428909995452,15.3457259995838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="KGISCode">29562054758030830000HMPOLPUOFFPOP0003</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">62</SimpleData>
+		<SimpleData name="KGISVillageID">6680</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">62</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Hubli Town (Forest Chowk)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.145692999606,15.3524299996793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="KGISCode">29562054758030830000HMPOLPUOFFPOP0004</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">63</SimpleData>
+		<SimpleData name="KGISVillageID">6689</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">63</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, M G Market, Hubli Town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1428600000354,15.342572000149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="KGISCode">29562054758030830000HMPOLPUOFFPOP0005</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">64</SimpleData>
+		<SimpleData name="KGISVillageID">6689</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">64</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Ghantikeri </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1444280001363,15.3408830003354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="KGISCode">29562054758030830000HMPOLPUOFFPOP0006</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">65</SimpleData>
+		<SimpleData name="KGISVillageID">6689</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">65</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Sadar Sofa, Old Hubli </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1350359995596,15.3371150000155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="KGISCode">29562054758030830000HMPOLPUOFFPOP0007</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">66</SimpleData>
+		<SimpleData name="KGISVillageID">6689</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">66</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Durgadbail, Old Hubli</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1315039999792,15.3369410002967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="KGISCode">29558054555998850000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">67</SimpleData>
+		<SimpleData name="KGISVillageID">2299</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">67</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Nittur </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3510540003933,18.0995850003813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="KGISCode">29558054545997620000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">68</SimpleData>
+		<SimpleData name="KGISVillageID">2196</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">68</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Rajeshwar </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.0402939996562,17.794064999949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="KGISCode">29579055808032050000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">69</SimpleData>
+		<SimpleData name="KGISVillageID">2690</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">69</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Jidaga, Alland Circle</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.5607100004583,17.5616599997127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFPOP0004</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">7</SimpleData>
+		<SimpleData name="KGISVillageID">30092</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">7</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, City Civil Court</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5836130002813,12.9728450001601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="KGISCode">29579055808032050000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">70</SimpleData>
+		<SimpleData name="KGISVillageID">2690</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">70</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Jidaga, Alland</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.5607100004583,17.5616599997127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="KGISCode">29579055836203340000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">71</SimpleData>
+		<SimpleData name="KGISVillageID">2874</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">71</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Chimmanchod </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.2958239003322,17.5227732004098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="KGISCode">29579055846204950000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">72</SimpleData>
+		<SimpleData name="KGISVillageID">3555</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">72</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Yanagundi </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.1611333214057,17.1953833216839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="KGISCode">29579055846205380000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">73</SimpleData>
+		<SimpleData name="KGISVillageID">3494</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">73</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kodla, Sedam </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.2525600001985,17.0376600003743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="KGISCode">29579055828032070000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">74</SimpleData>
+		<SimpleData name="KGISVillageID">3351</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">74</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Anand Hotel </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8279609995325,17.3291639997607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="KGISCode">29579055828032070000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">75</SimpleData>
+		<SimpleData name="KGISVillageID">3351</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">75</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Station Bazar, Kalaburagi  </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8263670000151,17.3174180004377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="KGISCode">29579055866208140000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">76</SimpleData>
+		<SimpleData name="KGISVillageID">3177</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">76</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Ijeri </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6992873001453,16.9104259000513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="KGISCode">29579055826203040000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">77</SimpleData>
+		<SimpleData name="KGISVillageID">3327</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">77</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Hagaragundagi </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7423623003405,17.1638953001404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="KGISCode">29579055828032070000HMPOLPUOFFPOP0003</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">78</SimpleData>
+		<SimpleData name="KGISVillageID">3347</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">78</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Basaveshwer Hospital </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8530999996479,17.3268899997695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="KGISCode">29579055858032130000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">79</SimpleData>
+		<SimpleData name="KGISVillageID">3117</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">79</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Wadi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9815722218921,17.0624888894517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFPOP0005</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">8</SimpleData>
+		<SimpleData name="KGISVillageID">15087</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">8</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Vasanthnagara Chowki</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5927356756342,12.9924318008119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="KGISCode">29580055886211010000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">80</SimpleData>
+		<SimpleData name="KGISVillageID">32062</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">80</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Vanadurga </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6899999998054,16.6299999996933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="KGISCode">29580055896212740000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">81</SimpleData>
+		<SimpleData name="KGISVillageID">32426</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">81</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kadechur </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.328678000121,16.8173419998856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="KGISCode">29580055876209580000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">82</SimpleData>
+		<SimpleData name="KGISVillageID">32347</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">82</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Sagar </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.4800000003542,16.3726000001031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="KGISCode">29580055886212140000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">83</SimpleData>
+		<SimpleData name="KGISVillageID">32164</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">83</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Bendebembali </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.1676970001034,16.4801499999411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="KGISCode">29580055896212290000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">84</SimpleData>
+		<SimpleData name="KGISVillageID">32481</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">84</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Yargol </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.0667570003309,16.9044150004232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="KGISCode">29556054465987210000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">85</SimpleData>
+		<SimpleData name="KGISVillageID">136</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">85</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kulageri </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5123500000008,15.9114000001031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="KGISCode">29556054475988530000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">86</SimpleData>
+		<SimpleData name="KGISVillageID">156</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">86</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Bevoor</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9140199995489,16.2196190001242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="KGISCode">29556054475987950000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">87</SimpleData>
+		<SimpleData name="KGISVillageID">190</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">87</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Vidyagiri, Bagalkot Town Circle</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6585499998887,16.1818000000621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="KGISCode">29556054475987950000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">88</SimpleData>
+		<SimpleData name="KGISVillageID">190</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">88</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Vidyagiri, Navanagara </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6585499998887,16.1818000000621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="KGISCode">29556054485989180000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">89</SimpleData>
+		<SimpleData name="KGISVillageID">385</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">89</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kudal Sangam Circle</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0599173996157,16.204788900034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFPOP0006</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">9</SimpleData>
+		<SimpleData name="KGISVillageID">30092</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">9</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Madhavanagara Chowki</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5769080927862,12.9837094873824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="KGISCode">29556054485990280000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">90</SimpleData>
+		<SimpleData name="KGISVillageID">319</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">90</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Gudur Sc Village</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9167140004351,15.9393229998689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="KGISCode">29556054485989180000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">91</SimpleData>
+		<SimpleData name="KGISVillageID">385</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">91</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kudal Sangam</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0599173996157,16.204788900034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="KGISCode">29556054435984160000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">92</SimpleData>
+		<SimpleData name="KGISVillageID">530</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">92</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Rabakavi </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1110799996322,16.4775900002344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="KGISCode">29556054445984740000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">93</SimpleData>
+		<SimpleData name="KGISVillageID">286</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">93</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Galagali </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4370699996513,16.4186799997306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="KGISCode">29555054345973170000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">94</SimpleData>
+		<SimpleData name="KGISVillageID">681</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">94</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Satti  </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.0873955996221,16.5716038001911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="KGISCode">29555054345972610000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">95</SimpleData>
+		<SimpleData name="KGISVillageID">654</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">95</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kallutti </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.043859999628,16.8583299996019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="KGISCode">29556054455985510000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">96</SimpleData>
+		<SimpleData name="KGISVillageID">629</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">96</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Mugalkhod </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1953899997623,16.3871199996792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="KGISCode">29555054405980680000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">97</SimpleData>
+		<SimpleData name="KGISVillageID">864</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">97</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Sampagoan </SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.761325999671,15.7961010001005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="KGISCode">29555054405980680000HMPOLPUOFFPOP0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">98</SimpleData>
+		<SimpleData name="KGISVillageID">864</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">98</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, M K Hubballi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.7614445996449,15.7949867999249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_police_outpost">
+		<SimpleData name="OBJECTID">99</SimpleData>
+		<SimpleData name="KGISCode">29555054338030230000HMPOLPUOFFPOP0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">99</SimpleData>
+		<SimpleData name="KGISVillageID">1040</SimpleData>
+		<SimpleData name="KGISPOL_OPSTID">99</SimpleData>
+		<SimpleData name="POL_OPSTName">Police Outpost, Kabbur</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.5756610004549,16.4243420003553</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

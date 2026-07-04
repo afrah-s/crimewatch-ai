@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ka_railway_ps_locs" id="ka_railway_ps_locs">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="KGISCode" type="string"></SimpleField>
+	<SimpleField name="KGISWardID" type="string"></SimpleField>
+	<SimpleField name="DepartmentCode" type="string"></SimpleField>
+	<SimpleField name="KGISVillageID" type="float"></SimpleField>
+	<SimpleField name="KGISRW_POL_STAID" type="int"></SimpleField>
+	<SimpleField name="RW_POL_STAName" type="string"></SimpleField>
+	<SimpleField name="KGISRW_POL_STACode" type="string"></SimpleField>
+</Schema>
+<Folder><name>ka_railway_ps_locs</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169740241</SimpleData>
+		<SimpleData name="KGISVillageID">15076</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">1</SimpleData>
+		<SimpleData name="RW_POL_STAName">Bangalore City Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.569171999661,12.9771270000087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFRPS0002</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169740242</SimpleData>
+		<SimpleData name="KGISVillageID">15076</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">2</SimpleData>
+		<SimpleData name="RW_POL_STAName">Bangalore Rural Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 02</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5695099998844,12.9794109996888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFRPS0003</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169740245</SimpleData>
+		<SimpleData name="KGISVillageID">30092</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">3</SimpleData>
+		<SimpleData name="RW_POL_STAName">Bangalore Contonment Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 03</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5978789997818,12.9937459998746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="KGISCode">29581055938032230000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169740246</SimpleData>
+		<SimpleData name="KGISVillageID">15770</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">4</SimpleData>
+		<SimpleData name="RW_POL_STAName">Bangarpet Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 04</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1787550002252,12.9848739998916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="KGISCode">29572055428031620000HMPOLPUOFFRPS0004</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169740247</SimpleData>
+		<SimpleData name="KGISVillageID">21406</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">5</SimpleData>
+		<SimpleData name="RW_POL_STAName">Byappanahalli Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 05</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.6435709998957,12.9916090002948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="KGISCode">29562054758030830000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169740248</SimpleData>
+		<SimpleData name="KGISVillageID">6689</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">16</SimpleData>
+		<SimpleData name="RW_POL_STAName">Hubli Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1491109998734,15.3499949996864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="KGISCode">29555054388030340000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169740287</SimpleData>
+		<SimpleData name="KGISVillageID">926</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">17</SimpleData>
+		<SimpleData name="RW_POL_STAName">Belgaum Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.5088440001025,15.8489010000455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="KGISCode">29577055728031940000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169740678</SimpleData>
+		<SimpleData name="KGISVillageID">28460</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">8</SimpleData>
+		<SimpleData name="RW_POL_STAName">Mysore Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 08</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6450560003776,12.3157869999178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="KGISCode">29574055558031730000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169740782</SimpleData>
+		<SimpleData name="KGISVillageID">21959</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">9</SimpleData>
+		<SimpleData name="RW_POL_STAName">Arasikere Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 09</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.2533650004565,13.3135649996608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="KGISCode">29579055858032130000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169740798</SimpleData>
+		<SimpleData name="KGISVillageID">3117</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">13</SimpleData>
+		<SimpleData name="RW_POL_STAName">Wadi Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9916209999564,17.0517599998208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="KGISCode">29558054578030600000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169740956</SimpleData>
+		<SimpleData name="KGISVillageID">30123</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">14</SimpleData>
+		<SimpleData name="RW_POL_STAName">BidarRailway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5151160004068,17.9117830002994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="KGISCode">29559054618030670000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169741034</SimpleData>
+		<SimpleData name="KGISVillageID">31785</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">12</SimpleData>
+		<SimpleData name="RW_POL_STAName">Raichur Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3393159996131,16.1932680002101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="KGISCode">29565055008031140000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169741075</SimpleData>
+		<SimpleData name="KGISVillageID">5007</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">11</SimpleData>
+		<SimpleData name="RW_POL_STAName">Bellary Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8949699998941,15.1506269997157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="KGISCode">29568055208031370000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169741279</SimpleData>
+		<SimpleData name="KGISVillageID">13452</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">10</SimpleData>
+		<SimpleData name="RW_POL_STAName">Shimoga Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5840539998002,13.9434079998543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="KGISCode">29575055618031810000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169741282</SimpleData>
+		<SimpleData name="KGISVillageID">26070</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">7</SimpleData>
+		<SimpleData name="RW_POL_STAName">Mangalore Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 07</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.8794940003058,12.8665450004427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="KGISCode">29567055128031270000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169741286</SimpleData>
+		<SimpleData name="KGISVillageID">11760</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">6</SimpleData>
+		<SimpleData name="RW_POL_STAName">Davanagere Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 06</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9195940002335,14.4679910004426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="KGISCode">29557054498030510000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169741290</SimpleData>
+		<SimpleData name="KGISVillageID">4989</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">15</SimpleData>
+		<SimpleData name="RW_POL_STAName">Bijapur Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7395120004607,16.8299789998331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ka_railway_ps_locs">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="KGISCode">29561054708030780000HMPOLPUOFFRPS0001</SimpleData>
+		<SimpleData name="KGISWardID"></SimpleData>
+		<SimpleData name="DepartmentCode">169741291</SimpleData>
+		<SimpleData name="KGISVillageID">6920</SimpleData>
+		<SimpleData name="KGISRW_POL_STAID">18</SimpleData>
+		<SimpleData name="RW_POL_STAName">Gadag Railway PS</SimpleData>
+		<SimpleData name="KGISRW_POL_STACode">RWP - 18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6453497850799,15.4368530634576</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
